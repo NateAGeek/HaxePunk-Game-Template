@@ -1,0 +1,12 @@
+-main ApplicationMain 
+-lib openfl
+-lib HaxePunk
+-cp src
+-D tools=1.2.1
+-D openfl=1.2
+-D web
+-swf-version 11.2
+-swf bin/flash/bin/LD48Game.swf
+-swf-header 640:480:60:333333
+-cp bin/flash/haxe
+#--remap nme:flash
