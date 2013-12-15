@@ -1,5 +1,6 @@
-LD48
-====
+Game Template
+==============================================
 
-Ludum Dare Compo "You Only Get One":
+This is a Template file for really any game you need.
+Defualt is like platformer
 	
